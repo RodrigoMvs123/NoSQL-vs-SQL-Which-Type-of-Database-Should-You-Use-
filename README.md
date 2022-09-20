@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=FzlpwoeSrE0
 ##
 https://raw.githubusercontent.com/RodrigoMvs123/NoSQL-vs-SQL-Which-Type-of-Database-Should-You-Use-/main/README.md
 ##
-
+https://github.com/RodrigoMvs123/NoSQL-vs-SQL-Which-Type-of-Database-Should-You-Use-/blame/main/README.md
 ##
 
 NoSQL vs SQL – Which Type of Database Should You Use?
