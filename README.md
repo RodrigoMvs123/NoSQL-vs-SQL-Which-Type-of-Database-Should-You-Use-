@@ -8,10 +8,6 @@ https://raw.githubusercontent.com/RodrigoMvs123/NoSQL-vs-SQL-Which-Type-of-Datab
 https://github.com/RodrigoMvs123/NoSQL-vs-SQL-Which-Type-of-Database-Should-You-Use-/blame/main/README.md
 ##
 
-NoSQL vs SQL – Which Type of Database Should You Use?
-
-
-https://www.youtube.com/watch?v=FzlpwoeSrE0
 
 What actually is a Database?
 Database design 
